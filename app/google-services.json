@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319511789877",
+    "project_id": "ontapcksqllite",
+    "storage_bucket": "ontapcksqllite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319511789877:android:60709f42c4de001fea0c7c",
+        "android_client_info": {
+          "package_name": "com.example.onandroidck_sqllite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319511789877-gnbcr5s86m5av7d7hmqnc1sikc91a8gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMAXqdyRUaUBR0uS3rUaCWxPx4ahwsPXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319511789877-gnbcr5s86m5av7d7hmqnc1sikc91a8gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
